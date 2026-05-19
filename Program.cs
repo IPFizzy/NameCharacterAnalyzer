@@ -11,7 +11,8 @@ namespace ConsoleMessages
             string yourName = Console.ReadLine();
             Console.WriteLine("Hello {0}, I am pleases to meet you", yourName);
 
-            Console.WriteLine("I")
+            Console.WriteLine("I see that your name is {0} letters long.", yourName.Length);
+
         }
     }
 }
