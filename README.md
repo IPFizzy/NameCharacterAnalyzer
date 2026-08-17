@@ -66,8 +66,8 @@ This value is a programming exercise rather than a linguistic measurement of a n
 Clone the repository:
 
 ```bash
-git clone https://github.com/IPFizzy/ConsoleMessages.git
-cd ConsoleMessages
+git clone https://github.com/IPFizzy/NameCharacterAnalyzer.git
+cd NameCharacterAnalyzer
 ```
 
 Run the application:
@@ -96,12 +96,6 @@ The exact numeric values depend on the characters entered.
 ## Practice Project Context
 
 This repository is intentionally small and is preserved as a completed introductory practice project. It demonstrates a clean console interaction, defensive input handling, iteration over string characters, type conversion, arithmetic, and formatted output without unnecessary complexity.
-
-## Recommended Repository Name
-
-For a public portfolio, **`NameCharacterAnalyzer`** is a stronger repository name than `ConsoleMessages` because it describes the finished program rather than the general console concept used to build it.
-
-The internal project and solution names can remain unchanged after the GitHub repository itself is renamed.
 
 ## Author
 
